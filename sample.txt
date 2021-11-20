@@ -3,3 +3,5 @@ This is sample file for git master branch
 git add
 
 git commit
+
+git branch
