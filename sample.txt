@@ -10,4 +10,8 @@ git branch -D
 
 git stash
 
+
 git squash
+
+git push
+
