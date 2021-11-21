@@ -15,5 +15,5 @@ git squash
 
 git push
 
-git featch
+git fetch
 
