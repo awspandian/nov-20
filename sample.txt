@@ -9,3 +9,5 @@ git branch
 git branch -D
 
 git stash
+
+git squash
